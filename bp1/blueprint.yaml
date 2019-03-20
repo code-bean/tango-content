@@ -1,1 +1,8 @@
-µë-
+name: locust
+version: 1
+resources:
+  Cloud_Machine_1:
+    type: Cloud.Machine
+    properties:
+      image: ubuntu
+      flavor: small
