@@ -1,8 +1,8 @@
 name: locust
-version: 4
+version: 12
 resources:
   Cloud_Machine_1:
     type: Cloud.Machine
     properties:
       image: ubuntu
-      flavor: large
+      flavor: small
