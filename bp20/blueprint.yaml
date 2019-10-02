@@ -1,8 +1,8 @@
 name: github-locust
-version: 0
+version: 1
 resources:
   Cloud_Machine_1:
     type: Cloud.Machine
     properties:
       image: ubuntu
-      flavor: small
+      flavor: medium
